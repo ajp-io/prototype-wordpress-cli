@@ -1,0 +1,5 @@
+click==8.1.7
+halo==0.0.31
+colorama==0.4.6
+PyYAML==6.0.1
+packaging==23.2 

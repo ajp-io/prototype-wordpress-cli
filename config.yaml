@@ -1,0 +1,12 @@
+# Prototype configuration for gitea CLI
+# Set environment_validation to 'pass' or 'fail'
+environment_validation: fail
+
+# Sleep interval for operations (in seconds)
+sleep_interval: 3
+
+# Whether to push images to registry for online installations
+push_images: true
+
+# Whether to enable multi-node support for Linux installations
+multi_node: true

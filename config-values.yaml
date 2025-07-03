@@ -1,0 +1,12 @@
+apiVersion: kots.io/v1beta1
+kind: ConfigValues
+spec:
+  values:
+    admin_password:
+      valuePlaintext: admin123
+    hostname:
+      value: gitea.example.com
+    smtp_enabled:
+      value: '1'
+    smtp_host:
+      value: smtp.example.com
