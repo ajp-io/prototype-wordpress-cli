@@ -5,7 +5,7 @@ spec:
     admin_password:
       valuePlaintext: admin123
     hostname:
-      value: gitea.example.com
+      value: wordpress.example.com
     smtp_enabled:
       value: '1'
     smtp_host:
